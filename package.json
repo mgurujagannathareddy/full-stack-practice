@@ -1,0 +1,26 @@
+{
+  "name": "full-stack-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgurujagannathareddy/full-stack-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mgurujagannathareddy/full-stack-practice/issues"
+  },
+  "homepage": "https://github.com/mgurujagannathareddy/full-stack-practice#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.19.1"
+  }
+}
